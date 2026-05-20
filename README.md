@@ -4,6 +4,12 @@ Welcome to your new [Mastra](https://mastra.ai/) project! We're excited to see w
 
 ## Getting Started
 
+Install Npm Packages:
+
+```shell
+npm Install
+```
+
 Start the development server:
 
 ```shell
